@@ -1,0 +1,12 @@
+# jest snapshot
+src/js/__tests__/__snapshots__/
+
+# temporary
+.DS_Store
+Thumbs.db
+*.bak
+
+# 自動生成ファイル郡
+.vs/
+node_modules/
+dist/
