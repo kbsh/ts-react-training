@@ -22,7 +22,7 @@
 cd {任意の場所}
 
 // gitリポジトリのclone
-git clone https://dev-util.imjp.co.jp/gitbucket/git/shohei.kitabatake/5ds-tsc.git
+git clone https://dev-util.imjp.co.jp/gitbucket/git/kbsh/5ds-tsc.git
 
 cd 5ds-tsc
 
